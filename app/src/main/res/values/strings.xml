@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_tasks">My Tasks:</string>
+    <string name="completed_tasks">Completed Tasks</string>
+    <string name="all_tasks">All Tasks</string>
+</resources>

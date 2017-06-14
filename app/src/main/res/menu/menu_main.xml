@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="michael.com.kotlindemo.KotlinActivity">
+    <item
+        android:id="@+id/all"
+        android:orderInCategory="100"
+        android:title="@string/all_tasks"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/completed"
+        android:orderInCategory="200"
+        android:title="@string/completed_tasks"
+        app:showAsAction="never"/>
+</menu>
